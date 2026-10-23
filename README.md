@@ -30,35 +30,35 @@ GitHub запускает видео без звука, по-другому он
 
 **Ночной эльф** — «Природное равновесие». Опекун Илталайн, Тенистая долина.
 
-https://github.com/user-attachments/assets/2faac171-649b-4780-99c5-ffa4dc974d59
+https://github.com/user-attachments/assets/322d46dd-b4a6-4e74-88f8-50bd6ee3bba5
 
 **Человек** — «Нападение на лагерь кобольдов». Маршал Макбрайд, Долина Североземья.
 
-https://github.com/user-attachments/assets/1ac83804-0aa1-4070-8e3d-278454752622
+https://github.com/user-attachments/assets/2bf1fbea-80df-48d4-85fc-0bc35e7d72ce
 
 **Дворф** — «Охотник на вепрей». Талин Остроглаз, Долина Холодного Ручья.
 
-https://github.com/user-attachments/assets/aa3eb370-dede-4da4-8ffd-f61e15e1e88c
+https://github.com/user-attachments/assets/090f906c-fa54-41c3-8ef7-49c608629ac6
 
 **Гном** — «Битва под землей». Шони Молшунья, Штормград.
 
-https://github.com/user-attachments/assets/fed0f7cb-ccd7-4e84-8d08-e6d6ca9cc855
+https://github.com/user-attachments/assets/cb338553-fa19-49d2-8e43-50c4888ea107
 
 **Орк** — «Кабаньи клыки». Горнек, Долина Испытаний.
 
-https://github.com/user-attachments/assets/48b1ed17-a027-4449-ab47-0df66aa721fe
+https://github.com/user-attachments/assets/ca5353cc-e6e8-44cd-b225-e817852857f9
 
 **Тролль** — «Саркот». Хана'зуа, Долина Испытаний.
 
-https://github.com/user-attachments/assets/9964a4ff-9dea-4bf0-b84f-77e668b0383c
+https://github.com/user-attachments/assets/73ae5110-7dd9-416f-9319-c1b95d14e047
 
 **Таурен** — «Охота продолжается». Грулл Соколиный Ветер, Красное Облако.
 
-https://github.com/user-attachments/assets/0bf66f22-8688-4580-b0c1-428951f66d93
+https://github.com/user-attachments/assets/236bb9d8-afb3-4daa-aebf-5780606129e3
 
 **Нежить** — «Резкое пробуждение». Мордо гробовщик, Похоронный Звон.
 
-https://github.com/user-attachments/assets/cd7a6b69-f28b-4c44-9756-2902c0460a26
+https://github.com/user-attachments/assets/5338fb18-dbb2-452b-a945-00b811f0f651
 
 Те же примеры файлами — в [docs/samples](docs/samples): если открыть файл (View raw), звук не приглушён.
 
