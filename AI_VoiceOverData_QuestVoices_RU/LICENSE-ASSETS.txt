@@ -1,0 +1,6 @@
+Аудиофайлы в generated/sounds/quests/ взяты из CatQuest Voices 0.6.1
+(автор daniilcathey (Cathey), https://www.curseforge.com/wow/addons/catquest-voices/files/9142066) и распространяются под лицензией
+CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Аудио не изменено (режим copy). Таблицы и манифест этого модуля, производные от индекса
+CatQuest Voices, распространяются на тех же условиях CC BY-NC-SA 4.0.
