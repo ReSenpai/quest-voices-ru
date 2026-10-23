@@ -1,7 +1,7 @@
 # Как обновляется аддон
 
-Озвучку и таблицы модуля здесь руками не правят: их собирает конвертер
-[classic-wow-voiceover](https://github.com/ReSenpai/classic-wow-voiceover) (`python -m voru.catquest`).
+Озвучку и таблицы модуля здесь руками не правят: их собирает конвертер (`python -m voru.catquest`), сделанный на
+основе [русского VoiceOver](https://github.com/the-homeless-god/wow-voiceover).
 
 1. В репозитории конвертера: `match` → прослушивание спорного → `build --version <новая>` → `verify` →
    `export --repo <рабочая копия этого репозитория>`.
