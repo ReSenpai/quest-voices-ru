@@ -15,9 +15,9 @@ CatQuest Voices — Cathey (daniilcathey). https://www.curseforge.com/wow/addons
   имена файлов и индексы, чтобы её мог проигрывать VoiceOver.
 
 Русский VoiceOver — Marat Zimnurov (the-homeless-god) и Proza1k. https://github.com/the-homeless-god/wow-voiceover
-  Лицензия GPL v3. Форк VoiceOver с русским переводом и паком озвучки (запасной пак для Quest Voices RU ставится
-  отдельно). Конвертер, которым собран этот модуль (https://github.com/ReSenpai/classic-wow-voiceover), — форк этого
-  репозитория под той же GPL v3; формат модуля озвучки (Module.lua, таблицы) — из VoiceOver mrthinger.
+  Лицензия GPL v3. Русская версия VoiceOver с переводом и паком озвучки (запасной пак для Quest Voices RU ставится
+  отдельно). На его основе сделан конвертер, которым собран этот модуль; формат модуля озвучки (Module.lua, таблицы)
+  — из VoiceOver mrthinger.
 
 Авторы VoiceOver, русского VoiceOver и CatQuest Voices не участвуют в этой сборке, не одобряли и не поддерживают её.
 Вопросы и ошибки сборки — сюда, в issues этого репозитория, а не им.
