@@ -14,8 +14,13 @@ CatQuest Voices — Cathey (daniilcathey). https://www.curseforge.com/wow/addons
   Лицензия CC BY-NC-SA 4.0. Использована версия 0.6.1. Озвучка скопирована без изменений; изменены только
   имена файлов и индексы, чтобы её мог проигрывать VoiceOver.
 
-Авторы VoiceOver и CatQuest Voices не участвуют в этой сборке, не одобряли и не поддерживают её. Вопросы и ошибки
-сборки — сюда, в issues этого репозитория, а не им.
+Русский VoiceOver — Marat Zimnurov (the-homeless-god) и Proza1k. https://github.com/the-homeless-god/wow-voiceover
+  Лицензия GPL v3. Форк VoiceOver с русским переводом и паком озвучки (запасной пак для Quest Voices RU ставится
+  отдельно). Конвертер, которым собран этот модуль (https://github.com/ReSenpai/classic-wow-voiceover), — форк этого
+  репозитория под той же GPL v3; формат модуля озвучки (Module.lua, таблицы) — из VoiceOver mrthinger.
+
+Авторы VoiceOver, русского VoiceOver и CatQuest Voices не участвуют в этой сборке, не одобряли и не поддерживают её.
+Вопросы и ошибки сборки — сюда, в issues этого репозитория, а не им.
 
 Что под какой лицензией
 -----------------------

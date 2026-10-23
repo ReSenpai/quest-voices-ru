@@ -160,14 +160,18 @@ Quest Voices RU собрана на основе двух чужих проек�
   [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/); звук не изменён — поменялись только имена
   файлов и индексы, чтобы его мог проигрывать VoiceOver.
 
-Запасной русский пак VoiceOver для классики — [the-homeless-god/wow-voiceover](https://github.com/the-homeless-god/wow-voiceover),
-отдельный проект; в Quest Voices RU он не входит.
+Запасной русский пак VoiceOver для классики — Marat Zimnurov
+([the-homeless-god/wow-voiceover](https://github.com/the-homeless-god/wow-voiceover)), отдельный проект; в Quest Voices
+RU он не входит.
 
-Сборка — [ReSenpai](https://github.com/ReSenpai). Конвертер, которым собран модуль, —
-[classic-wow-voiceover](https://github.com/ReSenpai/classic-wow-voiceover).
+Сборка — [ReSenpai](https://github.com/ReSenpai). Модуль собран конвертером
+[classic-wow-voiceover](https://github.com/ReSenpai/classic-wow-voiceover) — это форк
+[русского VoiceOver](https://github.com/the-homeless-god/wow-voiceover) Marat Zimnurov (the-homeless-god) и Proza1k
+(GPL v3), который, в свою очередь, основан на [VoiceOver](https://github.com/mrthinger/wow-voiceover) mrthinger
+(Unlicense). Сам конвертер в форке — новый код; от предшественников — формат модуля озвучки VoiceOver.
 
-Это неофициальная сборка: авторы VoiceOver и CatQuest Voices в ней не участвуют и не одобряли её. Об ошибках пишите
-в [issues](https://github.com/ReSenpai/quest-voices-ru/issues) этого репозитория.
+Это неофициальная сборка: авторы VoiceOver, русского VoiceOver и CatQuest Voices в ней не участвуют и не одобряли её.
+Об ошибках пишите в [issues](https://github.com/ReSenpai/quest-voices-ru/issues) этого репозитория.
 
 ## Лицензия
 
