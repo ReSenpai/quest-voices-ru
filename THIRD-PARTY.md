@@ -4,7 +4,7 @@
 
 | Компонент | Где лежит | Автор | Лицензия |
 | --- | --- | --- | --- |
-| Озвучка квестов CatQuest Voices 0.6.1 | `AI_VoiceOverData_QuestVoices_RU/generated/sounds/quests/` | Cathey (daniilcathey) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), текст — `LICENSE-ASSETS.txt` |
+| Озвучка квестов CatQuest Voices 0.7.1 | `AI_VoiceOverData_QuestVoices_RU/generated/sounds/quests/` | Cathey (daniilcathey) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), текст — `LICENSE-ASSETS.txt` |
 
 ## Зависимости, которые ставятся отдельно
 

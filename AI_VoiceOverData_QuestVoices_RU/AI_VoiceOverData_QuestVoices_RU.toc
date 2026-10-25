@@ -1,7 +1,7 @@
 ## Interface: 11509
 ## Title: Quest Voices RU — русская озвучка квестов
-## Notes: Озвучка квестов из CatQuest Voices 0.6.1 (автор daniilcathey (Cathey), CC BY-NC-SA 4.0), перенесена без изменений. Перекрывает старый пак; для отката удалите папку этого аддона и перезапустите клиент. VoiceOver загружает модуль, даже если он выключен.
-## Version: 0.1.0
+## Notes: Озвучка квестов из CatQuest Voices 0.7.1 (автор daniilcathey (Cathey), CC BY-NC-SA 4.0), перенесена без изменений. Перекрывает старый пак; для отката удалите папку этого аддона и перезапустите клиент. VoiceOver загружает модуль, даже если он выключен.
+## Version: 0.2.0
 ## LoadOnDemand: 1
 ## RequiredDeps: AI_VoiceOver
 ## X-Part-Of: VoiceOver
