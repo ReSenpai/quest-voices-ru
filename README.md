@@ -7,6 +7,8 @@
 озвучки для аддона [VoiceOver](https://www.curseforge.com/wow/addons/voiceover): он нужен для работы, а со старым
 русским паком VoiceOver звучат 98% квестов ([как это устроено](#как-это-устроено)).
 
+[![CurseForge](https://img.shields.io/badge/CurseForge-Quest%20Voices%20RU-f16436?logo=curseforge&logoColor=white)](https://www.curseforge.com/wow/addons/quest-voices-ru)
+[![Скачивания на CurseForge](https://img.shields.io/curseforge/dt/1774054?label=Скачивания&logo=curseforge&logoColor=white)](https://www.curseforge.com/wow/addons/quest-voices-ru)
 [![Последний релиз](https://img.shields.io/github/v/release/ReSenpai/quest-voices-ru?label=Релиз&logo=github)](https://github.com/ReSenpai/quest-voices-ru/releases/latest)
 [![WoW Classic Era](https://img.shields.io/badge/WoW-Classic%20Era%201.15%20ruRU-c79c6e)](#совместимость)
 [![Озвучка: CC BY-NC-SA 4.0](https://img.shields.io/badge/Озвучка-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE-ASSETS.txt)
@@ -115,7 +117,8 @@ RU, сдача — голосом старого пака. Приветстви�
    `AI_VoiceOver-WoW_BlizzClassic-v1.4.5.zip` из [релиза VoiceOver](https://github.com/mrthinger/wow-voiceover/releases/tag/v1.4.5)
    и распакуйте в `World of Warcraft\_classic_era_\Interface\AddOns` — получится папка `AI_VoiceOver`.
    Нужна версия 1.4.5 или новее: старые не работают на клиенте 1.15.9.
-2. **Quest Voices RU.** Скачайте `quest-voices-ru-v<версия>.zip` из
+2. **Quest Voices RU.** В приложении CurseForge найдите [Quest Voices RU](https://www.curseforge.com/wow/addons/quest-voices-ru)
+   и установите — VoiceOver приложение поставит само. Или вручную: скачайте `quest-voices-ru-v<версия>.zip` из
    [последнего релиза](https://github.com/ReSenpai/quest-voices-ru/releases/latest) и распакуйте туда же — получится
    папка `AI_VoiceOverData_QuestVoices_RU`.
 3. **Русский пак VoiceOver (по желанию).** Скачайте `AI_VoiceOverData_Vanilla-RU.zip` из
